@@ -1,0 +1,42 @@
+{
+  "short_name": "AmpMobileRadio",
+  "name": "Amp Mobile Radio",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/OldBlogger01/AmpMobileRadioWPA/main/android-chrome-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/OldBlogger01/AmpMobileRadioWPA/main/android-chrome-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "https://amp-radiomobile.blogspot.com/?homescreen=1",
+  "background_color": "#222325",
+  "display": "standalone",
+  "scope": "https://amp-radiomobile.blogspot.com/",
+  "theme_color": "#222325",
+  "description": "Accelerated Mobile Friendly Radio Pages Including News and Music.",
+  "id": "https://amp-radiomobile.blogspot.com/?homescreen=1",
+  "lang": "en",
+  "orientation": "landscape",
+  "display_override": [
+    "standalone",
+    "browser",
+    "window-controls-overlay"
+  ],
+  "screenshots": [
+    {
+      "src": "https://raw.githubusercontent.com/OldBlogger01/AmpMobileRadioWPA/main/Wide-Screen-Desctop.png",
+      "sizes": "1920x1080",
+      "type": "image/png"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/OldBlogger01/AmpMobileRadioWPA/main/Mobile-Screen.png",
+      "sizes": "401x834",
+      "type": "image/png"
+    }
+  ]
+}
