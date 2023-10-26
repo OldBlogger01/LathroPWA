@@ -3,12 +3,12 @@
   "name": "Ο Λαθραναγνώστης",
   "icons": [
     {
-      "src": "https://raw.githubusercontent.com/OldBlogger01/AmpMobileRadioWPA/main/android-chrome-192x192.png",
+      "src": "https://raw.githubusercontent.com/OldBlogger01/LathroPWA/main/Lathro-Image-192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "https://raw.githubusercontent.com/OldBlogger01/AmpMobileRadioWPA/main/android-chrome-512x512.png",
+      "src": "https://raw.githubusercontent.com/OldBlogger01/LathroPWA/main/Lathro-Image-512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
@@ -18,7 +18,8 @@
   "display": "standalone",
   "scope": "https://o-lathranagnostis.blogspot.com/",
   "theme_color": "#222325",
-  "description": "Accelerated Mobile Friendly Radio Pages Including News and Music.",
+  "description": "Λαθραίες ματιές στις Εφημερίδες του Ιντερνέτ.
+Αναδημοσιεύσεις ειδήσεων από τις δημοφιλέστερες Σελίδες νέων και Blogs.",
   "id": "https://o-lathranagnostis.blogspot.com/?homescreen=1",
   "lang": "en",
   "orientation": "landscape",
