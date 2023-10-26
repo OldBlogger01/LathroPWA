@@ -1,6 +1,6 @@
 {
-  "short_name": "AmpMobileRadio",
-  "name": "Amp Mobile Radio",
+  "short_name": "Lathranagnostis",
+  "name": "Ο Λαθραναγνώστης",
   "icons": [
     {
       "src": "https://raw.githubusercontent.com/OldBlogger01/AmpMobileRadioWPA/main/android-chrome-192x192.png",
@@ -13,13 +13,13 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "https://amp-radiomobile.blogspot.com/?homescreen=1",
+  "start_url": "https://o-lathranagnostis.blogspot.com/?homescreen=1",
   "background_color": "#222325",
   "display": "standalone",
-  "scope": "https://amp-radiomobile.blogspot.com/",
+  "scope": "https://o-lathranagnostis.blogspot.com/",
   "theme_color": "#222325",
   "description": "Accelerated Mobile Friendly Radio Pages Including News and Music.",
-  "id": "https://amp-radiomobile.blogspot.com/?homescreen=1",
+  "id": "https://o-lathranagnostis.blogspot.com/?homescreen=1",
   "lang": "en",
   "orientation": "landscape",
   "display_override": [
@@ -29,13 +29,13 @@
   ],
   "screenshots": [
     {
-      "src": "https://raw.githubusercontent.com/OldBlogger01/AmpMobileRadioWPA/main/Wide-Screen-Desctop.png",
+      "src": "https://raw.githubusercontent.com/OldBlogger01/LathroPWA/main/Desktop-Image.png",
       "sizes": "1920x1080",
       "type": "image/png"
     },
     {
-      "src": "https://raw.githubusercontent.com/OldBlogger01/AmpMobileRadioWPA/main/Mobile-Screen.png",
-      "sizes": "401x834",
+      "src": "https://raw.githubusercontent.com/OldBlogger01/LathroPWA/main/Mobile-Image.png",
+      "sizes": "423x727",
       "type": "image/png"
     }
   ]
