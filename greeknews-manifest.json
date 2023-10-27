@@ -1,0 +1,42 @@
+{
+  "short_name": "AmpGreekNews",
+  "name": "Amp Greek News",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/OldBlogger01/LathroPWA/main/Lathro-Image-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/OldBlogger01/LathroPWA/main/Lathro-Image-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "https://amp-greeknews.blogspot.com/?homescreen=1",
+  "background_color": "#222325",
+  "display": "standalone",
+  "scope": "https://amp-greeknews.blogspot.com/",
+  "theme_color": "#222325",
+  "description": "Sneak peeks at Internet Newspapers - News reposts from the most popular news Pages and Blogs, in AMP.",
+  "id": "https://amp-greeknews.blogspot.com/?homescreen=1",
+  "lang": "en",
+  "orientation": "landscape",
+  "display_override": [
+    "standalone",
+    "browser",
+    "window-controls-overlay"
+  ],
+  "screenshots": [
+    {
+      "src": "https://raw.githubusercontent.com/OldBlogger01/LathroPWA/main/Desktop-Image.png",
+      "sizes": "1920x1080",
+      "type": "image/png"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/OldBlogger01/LathroPWA/main/Mobile-Image.png",
+      "sizes": "423x727",
+      "type": "image/png"
+    }
+  ]
+}
