@@ -21,7 +21,7 @@
   "description": "Sneak peeks at Internet Newspapers - News reposts from the most popular news Pages and Blogs, in AMP.",
   "id": "https://amp-greeknews.blogspot.com/?homescreen=1",
   "lang": "en",
-  "orientation": "landscape",
+  "orientation": "any",
   "display_override": [
     "standalone",
     "browser",
@@ -31,6 +31,7 @@
     {
       "src": "https://raw.githubusercontent.com/OldBlogger01/LathroPWA/main/Desktop-Image.png",
       "sizes": "1920x1080",
+      "form_factor": "wide",
       "type": "image/png"
     },
     {
