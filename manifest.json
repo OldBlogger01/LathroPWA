@@ -1,6 +1,6 @@
 {
-  "short_name": "Lathranagnostis",
-  "name": "O Lathranagnostis",
+  "short_name": "Συνταγές",
+  "name": "Ελληνικές Συνταγές",
   "icons": [
     {
       "src": "https://raw.githubusercontent.com/OldBlogger01/LathroPWA/main/Lathro-Image-192.png",
@@ -21,7 +21,7 @@
   "description": "Sneak peeks at Internet Newspapers - News reposts from the most popular news Pages and Blogs.",
   "id": "https://o-lathranagnostis.blogspot.com/?homescreen=1",
   "lang": "en",
-  "orientation": "landscape",
+  "orientation": "any",
   "display_override": [
     "standalone",
     "browser",
